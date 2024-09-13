@@ -29,3 +29,7 @@ To implement this project, we leveraged data imported using the NBA API and proc
 - **DA_defence_offense_df**: Game-by-game performance statistics for Deni Avdija across all 82 games in each of his first four NBA seasons (2020-21 to 2023-24).
 
 This dashboard allows us to dynamically explore these aspects of Avdija's career and gain deeper insights into his development as a player.
+
+
+https://github.com/user-attachments/assets/1602afd3-1234-4e32-a65c-b3c65300b6ed
+
