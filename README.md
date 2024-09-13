@@ -1,5 +1,7 @@
 # Deni_Avdija_Dashboard
 
+**\*\*\* The video of the dashboard is below \*\*\***
+
 Our project focuses on analyzing the evolving "game-changing trends" of Israeli basketball player Deni Avdija during his NBA career over the last four seasons (2020-21 to 2023-24). To provide a comprehensive analysis, we developed a dynamic dashboard that addresses the following key questions:
 
 1. **Deni Avdija’s Performance as a “Complete” Player**  
@@ -31,5 +33,6 @@ To implement this project, we leveraged data imported using the NBA API and proc
 This dashboard allows us to dynamically explore these aspects of Avdija's career and gain deeper insights into his development as a player.
 
 
-https://github.com/user-attachments/assets/1602afd3-1234-4e32-a65c-b3c65300b6ed
+
+https://github.com/user-attachments/assets/4de17c05-9456-4fee-bf32-384a9c3de44d
 
